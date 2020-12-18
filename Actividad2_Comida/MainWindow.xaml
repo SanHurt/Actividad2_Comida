@@ -8,7 +8,7 @@
         Title="Actividad2"
         Height="700"
         Width="950"
-        Icon="Assets/icon.ico">
+        Icon="Assets/icon.ico"> 
     <Window.Resources>
         <local:BanderaConverter x:Key="banderaConverter"></local:BanderaConverter>
         <local:VisibilityConverter x:Key="visibilityConverter"></local:VisibilityConverter>
