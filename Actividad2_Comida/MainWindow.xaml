@@ -5,9 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Actividad2_Comida"
         mc:Ignorable="d"
-        Title="MainWindow"
+        Title="Actividad2"
         Height="700"
-        Width="950">
+        Width="950"
+        Icon="Assets/icon.ico">
     <Window.Resources>
         <local:BanderaConverter x:Key="banderaConverter"></local:BanderaConverter>
         <local:VisibilityConverter x:Key="visibilityConverter"></local:VisibilityConverter>
